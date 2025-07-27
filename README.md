@@ -1,66 +1,67 @@
-<!-- Perfil personalizado estilo oscuro, elegante y misterioso -->
+<!-- README personal para perfil GitHub - Estilo FUERTHEX -->
 
-<h1 align="center">
-  Bienvenido a mi universo 🦊✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,6A0DAD,FF69B4,C40F22&height=200&section=header&text=Bienvenido%20a%20mi%20Universo&fontColor=ffffff&fontSize=45&animation=fadeIn" />
+</p>
+
+<h1 align="center" style="color:#FFD651;">
+  🦊 Soy Raen Fuerthex
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=BB00FF&center=true&vCenter=true&width=435&lines=Soy+Raen+Fuerthex;Desarrollador+Web+%2F+Creativo;Amante+del+arte+y+la+tecnología" alt="Typing SVG" />
+<p align="center" style="color:#bbbbbb;">
+  <strong>Creador de experiencias digitales, fusionando emociones con código.</strong><br>
+  Marca personal basada en la elegancia, el amor y el misterio.<br><br>
+  <span style="color:#C40F22;">💻 Desarrollador Web</span> |
+  <span style="color:#FF69B4;">🎨 Diseñador Creativo</span> |
+  <span style="color:#39FF14;">📚 Aprendiz eterno</span>
 </p>
 
 ---
 
-<h2 align="center">🖤 Sobre mí</h2>
+<h2 align="center" style="color:#6A0DAD;">⚙️ Tecnologías que uso</h2>
 
 <p align="center">
-  <strong>Soy un creador digital, fusionando emociones con código.</strong><br>
-  Mi símbolo es el zorro 🦊 — misterioso, elegante, protector.<br><br>
-  💻 Desarrollador Fullstack en formación<br>
-  🎨 Diseñador de experiencias mágicas<br>
-  📚 Apasionado por el aprendizaje constante<br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,cpp,vscode,figma" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center" style="color:#1E90FF;">📈 Mis estadísticas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,py,figma,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=midnight-purple&hide_border=true&title_color=FF69B4&icon_color=FFD651" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&ring=C40F22&fire=FF69B4" />
 </p>
 
 ---
 
-<h2 align="center">📈 Estadísticas</h2>
+<h2 align="center" style="color:#FFD651;">🗂 Proyectos favoritos</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&title_color=FF00FF&icon_color=FFD700" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark&hide_border=true&ring=FF007F&fire=FF007F" alt="Streak Stats" />
-</p>
-
----
-
-<h2 align="center">🌌 Mis proyectos favoritos</h2>
-
-<p align="center">
-  🔹 <a href="https://github.com/tu-usuario/tu-proyecto">Mi editor de texto avanzado ✍️</a><br>
-  🔹 <a href="https://github.com/tu-usuario/proyecto-romantico">Página romántica para mi amor 💖</a><br>
-  🔹 <a href="https://github.com/tu-usuario/fuerthex">Identidad de marca Fuerthex 🦊</a>
+<p align="center" style="color:#bbbbbb;">
+  🔸 <a href="https://github.com/tu-usuario/editor-fuerthex" style="color:#FF69B4;"><strong>📝 Editor de texto avanzado</strong></a><br>
+  🔸 <a href="https://github.com/tu-usuario/amor-para-siempre" style="color:#C40F22;"><strong>💖 Página romántica para mi amor</strong></a><br>
+  🔸 <a href="https://github.com/tu-usuario/fuerthex" style="color:#6A0DAD;"><strong>🦊 Identidad visual de Fuerthex</strong></a>
 </p>
 
 ---
 
-<h2 align="center">📫 Conecta conmigo</h2>
+<h2 align="center" style="color:#39FF14;">🌐 Conecta conmigo</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/tu_usuario"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tu_usuario"><img src="https://img.shields.io/badge/Instagram-%23FF69B4.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23C40F22.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tu_usuario"><img src="https://img.shields.io/badge/LinkedIn-%231E90FF.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6f00ff&height=120&section=footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD651&center=true&vCenter=true&multiline=true&width=600&lines=⚡+Construyendo+algo+grande...;🦊+Siguiendo+el+camino+del+Zorro...;💖+Codificando+con+pasión+y+propósito." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,C40F22,6A0DAD,FF69B4&height=150&section=footer" />
 </p>
