@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" style="color:#FFD651;">
-  🦊 Soy Raen Fuerthex
+  🦊 Soy Fuerthex
 </h1>
 
 <p align="center" style="color:#bbbbbb;">
