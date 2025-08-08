@@ -9,8 +9,7 @@
 </h1>
 
 <p align="center" style="color:#bbbbbb; max-width: 700px; margin: auto;">
-  <strong>Diseñador y desarrollador web apasionado por crear experiencias digitales que fusionan emoción, funcionalidad y estética.</strong><br />
-  Mi marca personal se basa en la elegancia, el amor y el misterio.<br /><br />
+  <strong>Diseñador y desarrollador web apasionado por crear experiencias digitales que fusionan emoción, funcionalidad y estética.</strong><br /><br /><br />
   <span style="color:#C40F22;">💻 Desarrollador Web</span> &nbsp;|&nbsp; 
   <span style="color:#FF69B4;">🎨 Diseñador Creativo</span> &nbsp;|&nbsp; 
   <span style="color:#39FF14;">📚 Aprendiz eterno</span>
