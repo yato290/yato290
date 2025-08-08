@@ -41,7 +41,6 @@
 
 <ul align="center" style="list-style: none; padding: 0; max-width: 700px; margin: auto; color:#bbbbbb;">
   <li>🔸 <a href="https://github.com/tu-usuario/editor-fuerthex" style="color:#FF69B4;" target="_blank" rel="noopener noreferrer"><strong>📝 Editor de texto avanzado</strong></a> - Herramienta potente y elegante para escribir sin límites.</li>
-  <li>🔸 <a href="https://github.com/tu-usuario/amor-para-siempre" style="color:#C40F22;" target="_blank" rel="noopener noreferrer"><strong>💖 Página romántica para mi amor</strong></a> - Proyecto lleno de corazón y creatividad.</li>
   <li>🔸 <a href="https://github.com/tu-usuario/fuerthex" style="color:#6A0DAD;" target="_blank" rel="noopener noreferrer"><strong>🦊 Identidad visual de Fuerthex</strong></a> - Marca personal con estilo único y profesional.</li>
 </ul>
 
